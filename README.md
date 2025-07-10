@@ -10,11 +10,11 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJIDEA-blue?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ---
 
