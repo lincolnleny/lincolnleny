@@ -2,8 +2,8 @@
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
 💼 Desenvolvedor Java focado em backend  
-📚 Praticando Java, Spring Boot, Django e construção de APIs REST  
-🚀 Apaixonado por código limpo e aprendizado contínuo  
+📚 Estudando Java, Spring Boot, Django e construção de APIs REST  
+🚀 Apaixonado por código limpo e aprendizado constante  
 
 ---
 
