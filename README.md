@@ -19,12 +19,11 @@
   <img src="https://skillicons.dev/icons?i=git,github" height="32"/>
   <!-- IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode,intellij" height="32"/>
-</p>
 
 
 ---
 
-## 📊 Meu Status no GitHub
+//## 📊 Meu Status no GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnleny&show_icons=true&theme=github_dark&hide_title=false"/>
