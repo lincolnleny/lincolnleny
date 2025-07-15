@@ -8,21 +8,42 @@
 
 ---
 
-## 🛠️ Skills & Tecnologias
-
+## 👨‍💻 Linguagens de Programação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,react,nextjs,nodejs,angular,cs,dotnet,html,css,postgres,mysql,linux" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="32"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-MS%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927" height="28"/>
 </p>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🧰 Frameworks e Bibliotecas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django" height="32"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaFX-3776AB?style=flat&logo=java&logoColor=white" height="28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white" height="28"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="32"/>
+</p>
 
-- [API de Livros - Spring Boot](https://github.com/lincolnleny/api-livros) &nbsp; ☕🔒  
-  API RESTful para gerenciamento de livros com autenticação.
+---
 
-- [Sistema de Tarefas Django](https://github.com/lincolnleny/django-tasks) &nbsp; 🐍🌿  
-  Aplicação web para cadastro e gerenciamento de tarefas.
+## 🗂️ Controle de Versão
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github" height="32"/>
+</p>
+
+---
+
+## 🧪 Ambientes de Desenvolvimento (IDEs)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,intellij" height="32"/>
+</p>
+
+---
+
+## 📦 Gerenciadores de Dependência
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=maven" height="32"/>
+</p>
 
 ---
 
