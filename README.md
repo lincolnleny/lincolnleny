@@ -7,21 +7,21 @@
 🚀 Apaixonado por código limpo, APIs REST e aprendizado constante  
 
 ---
-## 🚀 Principais tecnologias do meu dia a dia &nbsp;|&nbsp; 📊 Meu Status no GitHub
+## 🚀 Principais tecnologias do meu dia a dia 
 
 <div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 24px;">
 
   <!-- Skills -->
   <div>
     <p>
-      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,spring,django,javafx,maven,git,github,vscode,intellij" height="48"/>
+      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,django,maven,git,github,vscode,intellij" height="48"/>
     </p>
   </div>
 
   <!-- GitHub Stats -->
   <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lincolnleny&show_icons=true&theme=github_dark&hide_title=false"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnleny&layout=compact&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnleny&show_icons=true&theme=github_dark&hide_title=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnleny&layout=compact&theme=github_dark"/>
   </div>
 
 </div>
