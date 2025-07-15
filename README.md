@@ -7,30 +7,24 @@
 🚀 Apaixonado por código limpo, APIs REST e aprendizado constante  
 
 ---
-## 🚀 Principais tecnologias do meu dia a dia
+## 🚀 Principais tecnologias do meu dia a dia &nbsp;|&nbsp; 📊 Meu Status no GitHub
 
-<p align="left">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="32"/>
-  <img src="https://img.shields.io/badge/SQL-MS%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927" height="28"/>
-  <!-- Frameworks / Bibliotecas -->
-  <img src="https://skillicons.dev/icons?i=spring,django,javafx,maven" height="32"/>
-  <!-- Controle de versão -->
-  <img src="https://skillicons.dev/icons?i=git,github" height="32"/>
-  <!-- IDEs -->
-  <img src="https://skillicons.dev/icons?i=vscode,intellij" height="32"/>
-</p>
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 24px;">
 
+  <!-- Skills -->
+  <div>
+    <p>
+      <img src="https://skillicons.dev/icons?i=java,python,js,html,css,sql,spring,django,javafx,maven,git,github,vscode,intellij" height="48"/>
+    </p>
+  </div>
 
----
+  <!-- GitHub Stats -->
+  <div>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lincolnleny&show_icons=true&theme=github_dark&hide_title=false"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnleny&layout=compact&theme=github_dark"/>
+  </div>
 
-## 📊 Meu Status no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lincolnleny&show_icons=true&theme=github_dark&hide_title=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnleny&layout=compact&theme=github_dark"/>
-</p>
-
+</div>
 ---
 
 ## 📫 Onde me encontrar
