@@ -7,43 +7,20 @@
 🚀 Apaixonado por código limpo, APIs REST e aprendizado constante  
 
 ---
+## 🚀 Principais tecnologias do meu dia a dia
 
-## 👨‍💻 Linguagens de Programação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="32"/>&nbsp;
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" height="32"/>
   <img src="https://img.shields.io/badge/SQL-MS%20SQL%20Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=CC2927" height="28"/>
-</p>
-
----
-
-## 🧰 Frameworks e Bibliotecas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django" height="32"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaFX-3776AB?style=flat&logo=java&logoColor=white" height="28"/>&nbsp;
-  <img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white" height="28"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=maven" height="32"/>
-</p>
-
----
-
-## 🗂️ Controle de Versão
-<p align="left">
+  <!-- Frameworks / Bibliotecas -->
+  <img src="https://skillicons.dev/icons?i=spring,django,javafx,maven" height="32"/>
+  <!-- Controle de versão -->
   <img src="https://skillicons.dev/icons?i=git,github" height="32"/>
-</p>
-
----
-
-## 🧪 Ambientes de Desenvolvimento (IDEs)
-<p align="left">
+  <!-- IDEs -->
   <img src="https://skillicons.dev/icons?i=vscode,intellij" height="32"/>
 </p>
 
----
-
-## 📦 Gerenciadores de Dependência
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=maven" height="32"/>
-</p>
 
 ---
 
